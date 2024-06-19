@@ -1,6 +1,6 @@
 In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
 
-Website Live : https://koushikjobbyapp.ccbp.tech/login
+Website Live : https://swapnajobbyapp.ccbp.tech/login
 Username: rahul
 Password: rahul@2021
 
